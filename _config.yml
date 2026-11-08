@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Personal Website"
+title                    : "Nathaniel Edward-Inatimi"
 title_separator          : "-"
 name                     : &name "Nathaniel Edward-Inatimi"
 description              : &description "academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,14 @@ repository               : "NathanielInatimi/nathanielinatimi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_photo.jpg"
+  name             : "Nathaniel Edward-Inatimi"
   pronouns         : "he/him"  
   bio              : "PhD researcher in space weather and solar wind science"
   location         : "UK"
   employer         : "University of Reading"
   uri              : # URL
-  email            : #"email@email.com" 
+  email            : "n.o.edward-inatimi@pgr.reading.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -87,7 +87,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'First-Author Publications'
+  coauthorship:
+    title: 'Co-authored Publications'    
   conferences:
     title: 'Conference Papers'
 
@@ -233,6 +235,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+    
 
 
 # These settings control how pages and collections are included in the site
@@ -264,7 +267,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  #_publications
   - scope:
       path: ""
       type: publications
@@ -273,7 +276,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  #_portfolio
   - scope:
       path: ""
       type: portfolio
@@ -282,7 +285,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  #_talks
   - scope:
       path: ""
       type: talks

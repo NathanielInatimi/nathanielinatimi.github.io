@@ -13,6 +13,8 @@ I am a space weather PhD Student in the University of Reading's [Department of M
 
 **October 2026**: I presented my PhD research for the Meteorology department lunchtime seminar. 
 
+**17 September 2026**: I have a new paper out in AGU Space Weather all about empirical modelling of solar wind speeds for driving solar wind ensembles, (read it here!)[https://doi.org/10.1029/2026SW005224]
+
 **September 2026**: I was invited to give a talk for the Solar Orbiter Eruptive Events Working group
 
 **June 2026**: I attended [Solar Wind 17](https://www.solarwind17.com/) in Bath, UK where I presented a poster [(see the poster here!)](https://nathanielinatimi.github.io/files/solar_wind_17_poster.pdf)
